@@ -11,7 +11,8 @@
 - 💬 Bana sorabileceğiniz konular **Java, Spring Boot, SQL, Git,Maven**
 
 - 📫 Mail adresim: **melekceviz5@gmail.com**
-- Linkedin adresim : https://www.linkedin.com/in/melek-ceviz
+- ![image](https://github.com/user-attachments/assets/58c6fa38-bd6e-4ab6-9baf-9b594d08d074)
+Linkedin adresim : https://www.linkedin.com/in/melek-ceviz
 
 
 ---
